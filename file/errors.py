@@ -1,0 +1,5 @@
+oy = "оу что-то не так"
+SystemExit = "остановка..."
+winerror = "Ошибка Windows"
+MissingRequiredArgument = "Не хватает значений!!!"
+MissingPerm = "Недостаточно прав"
